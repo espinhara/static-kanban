@@ -310,7 +310,7 @@ Sinta-se à vontade para contribuir com este projeto. Para contribuir, siga os p
   5. Crie um novo Pull Request
 
 ## Licença
-Este projeto está licenciado sob a MIT License.
+Este projeto está licenciado sob a MIT [License](https://github.com/espinhara/static-kanban/blob/c4d2c2ffda543a87e3133dbf60883dece735b999/LICENSE.TXT).
 
 
 

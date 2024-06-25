@@ -1,0 +1,27 @@
+/* Column.css */
+.kanban-column {
+  width: 18%;
+  background-color: #e0e0e0;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  height: 95%;
+  overflow-y: auto;
+}
+
+.kanban-column h2 {
+  position: sticky;
+  top: 0;
+  background-color: #e0e0e0;
+  margin: 0;
+  padding: 10px 0;
+  text-align: center;
+  border-bottom: 2px solid #ccc;
+  z-index: 1;
+}
+
+.kanban-items {
+  flex-grow: 1;
+}

@@ -1,0 +1,9 @@
+/* App.css */
+.kanban-board {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: #f4f4f4;
+  height: 100vh;
+  box-sizing: border-box;
+}

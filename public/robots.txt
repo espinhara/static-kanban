@@ -1,0 +1,12 @@
+# Bloquear todos os rastreadores de acessar certos diretórios e arquivos específicos
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /login/
+
+# Permitir que todos os rastreadores acessem o resto do site
+User-agent: *
+Allow: /
+
+# Indicar o caminho para o sitemap (se você tiver um)
+Sitemap: https://www.seusite.com/sitemap.xml

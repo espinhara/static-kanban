@@ -38,10 +38,10 @@ O aplicativo estará disponível em http://localhost:3000.
   - ItemDetailsModal.js: Componente que exibe uma modal com os detalhes das candidaturas da vaga.
   - App.css, Column.css, Item.css, ItemDetailsModal.css: Arquivos de estilo para os componentes.
 ## Uso
-  1- As vagas são organizadas em colunas de acordo com o seu status: "To Do", "In Progress", "In Review", "Done" e "Archived".
-  2- Clique em uma vaga para visualizar os detalhes das candidaturas em uma modal.
-  3- A modal exibe uma tabela com os detalhes das candidaturas (ID, Nome e Email).
-  4- Clique no botão "Fechar" para fechar a modal.
+  1. As vagas são organizadas em colunas de acordo com o seu status: "To Do", "In Progress", "In Review", "Done" e "Archived".
+  2. Clique em uma vaga para visualizar os detalhes das candidaturas em uma modal.
+  3. A modal exibe uma tabela com os detalhes das candidaturas (ID, Nome e Email).
+  4. Clique no botão "Fechar" para fechar a modal.
 ## Exemplo de Código
   `App.js`
 ```jsx
@@ -303,11 +303,11 @@ export default ItemDetailsModal;
 ## Contribuição
 Sinta-se à vontade para contribuir com este projeto. Para contribuir, siga os passos abaixo:
 
-  1- Faça um fork do projeto
-  2- Crie uma nova branch (git checkout -b feature/sua-feature)
-  3- Faça as suas alterações e commit (git commit -am 'Adicionei uma nova feature')
-  4- Envie para a branch (git push origin feature/sua-feature)
-  5- Crie um novo Pull Request
+  1. Faça um fork do projeto
+  2. Crie uma nova branch (git checkout -b feature/sua-feature)
+  3. Faça as suas alterações e commit (git commit -am 'Adicionei uma nova feature')
+  4. Envie para a branch (git push origin feature/sua-feature)
+  5. Crie um novo Pull Request
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
